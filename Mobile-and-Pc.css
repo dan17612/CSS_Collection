@@ -1,0 +1,11 @@
+@media screen and (min-width: 992px) {
+    .mobile {display: none !important;}
+    .no-mobile {display: block !important;}
+    /* Deine Daten fuer CSS */
+}
+
+@media (max-width: 991px) {
+    .mobile {display: block !important;}
+    .no-mobile {display: none !important;}
+    /* Deine Daten fuer CSS */
+}
